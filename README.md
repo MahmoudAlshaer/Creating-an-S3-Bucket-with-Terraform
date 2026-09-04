@@ -2,7 +2,7 @@
 
 
 **Author:** Mahmoud Alshaer  
-**Email:** mahmoudalshaer8.a@gmail.com
+**Email:** Mahmoudalshaer8.a@gmail.com
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Introducing Today's Project!
+## Introducing Today's Project
 
 In this project, I will demonstrate how to use Terraform to launch an S3 bucket. The goal is to install and set up Terraform, troubleshoot any errors, and successfuly apply the Terraform configuration to launch a bucket.
 

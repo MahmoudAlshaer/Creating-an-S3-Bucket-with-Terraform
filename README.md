@@ -1,4 +1,4 @@
-# Create S3 Buckets with Terraform
+# Creating an S3 Bucket with Terraform
 
 
 **Author:** Mahmoud Alshaer  
